@@ -1,0 +1,7 @@
+{WEBHOOKS} = 
+
+{MULTI_TOKEN} = false
+
+{TOKEN}  = 
+
+{GUILD} = 
